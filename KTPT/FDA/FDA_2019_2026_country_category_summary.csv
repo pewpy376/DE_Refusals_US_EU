@@ -1,0 +1,13 @@
+﻿ISO_CNTRY_CODE,country_name,sps_tbt_category,refusal_count
+EC,Ecuador,Other/Unmatched,54
+EC,Ecuador,SPS,181
+EC,Ecuador,SPS+TBT,19
+EC,Ecuador,TBT,98
+IN,India,Other/Unmatched,7232
+IN,India,SPS,6816
+IN,India,SPS+TBT,897
+IN,India,TBT,3277
+VN,Vietnam,Other/Unmatched,59
+VN,Vietnam,SPS,1168
+VN,Vietnam,SPS+TBT,100
+VN,Vietnam,TBT,283
